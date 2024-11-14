@@ -107,7 +107,7 @@ Publish the website in the given URL.
 </head>
 <body>
     <h1>Image Gallery</h1>
-    <h2>V RAKSHA DHARANIKA</h2>
+   
     
     <div class="gallery">
         <div class="gallery-item">
